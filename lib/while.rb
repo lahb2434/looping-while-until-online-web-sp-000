@@ -7,4 +7,5 @@ def using_while
   #your code here
 end
 
-
+def using_while
+  4.times 
